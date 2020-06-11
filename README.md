@@ -1,26 +1,14 @@
-# HW1
+# HW1 HTML CSS Git: Code Refactor
 
-# 01 HTML CSS Git: Code Refactor
+Welcome to my first homework assignment in the Coding Bootcamp! The objective of the assignment was to take the given HTML and CSS files for Horiseon Company Website -- a company for Search Engine Optimization, Online Reputation Management, and Social Media Marketing -- and refact the existing code to improve search engine optimization.  
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+## The Prompt
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
-
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-## User Story
-
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
-## Acceptance Criteria
-
-```
+## The Acceptance Criteria 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -32,15 +20,16 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
 
-## Review
+## Process
 
-You are required to submit the following for review:
+In order to refact the code to comply with the acceptance criteria, I:
+**Utilized comment dividers and created comments to guide the user through the code and its purpose**
+**Restructured the html/css elements to fall in sequential order**
+**Added alt tags with relevant titles for each img**
+**Renamed the website title element along with other irrelevant element names**
+**Consolidated html/css elements to improve consistency for a cleaner coder**
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
