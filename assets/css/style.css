@@ -1,13 +1,14 @@
+/* Style Sheet for Horiseon Company Website */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Set background color of body*/ 
 body {
     background-color: #d9dcd6;
 }
-
+/*Set Header Characteristics*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +51,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/*Set mood of website with background theme and styling*/
+.Background_Theme {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,12 +60,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Align Properties to the left of the viewport*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Align Properties to the right of the viewport*/
 .float-right {
     float: right;
     margin-left: 25px;
