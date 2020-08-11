@@ -1,4 +1,4 @@
-# HW1 HTML CSS Git: Code Refactor
+# Code Refactor
 
 Welcome to my first homework assignment in the Coding Bootcamp! The objective of the assignment was to take the given HTML and CSS files for Horiseon Company Website -- a company for Search Engine Optimization, Online Reputation Management, and Social Media Marketing -- and refact the existing code to improve search engine optimization.  
 
